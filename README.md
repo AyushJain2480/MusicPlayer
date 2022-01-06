@@ -16,3 +16,5 @@ iMelody is a music player which reads and plays songs from your phone
 ![read external data](https://raw.githubusercontent.com/AyushJain2480/MusicPlayer/main/img/m2.jpg)
 
 ![song1](https://raw.githubusercontent.com/AyushJain2480/MusicPlayer/main/img/m3%20(1).jpg)
+
+![next song](https://raw.githubusercontent.com/AyushJain2480/MusicPlayer/main/img/m4%20(1).jpg)
